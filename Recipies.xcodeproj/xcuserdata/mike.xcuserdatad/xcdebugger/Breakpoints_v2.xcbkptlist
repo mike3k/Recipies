@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55AA1FB6-3496-441C-AF94-7215EAA2147B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - 4f8073e1755818ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - d0f3cc5d1764cdf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - da122e3d137edcd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - 90db306edc1232d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - 4f8073e175581b72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - d0f3cc5d1764ce4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - da122e3d137edf6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "25AD7D2B-A76A-4501-A08D-E3D07FFBEDED - 90db306edc12316d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.ContentView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F348336E-0673-4910-B9B7-0DAC4C836B3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/API/Endpoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetch(method:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "874E5536-CF8A-4FCF-AC9D-FC9E32F74820"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/API/MealFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchMeals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "874E5536-CF8A-4FCF-AC9D-FC9E32F74820 - 7bc976fa0ec0eb4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipies.MealFetcher.fetchMeals() async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/MealFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "874E5536-CF8A-4FCF-AC9D-FC9E32F74820 - c2cc1334d45bab5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipies.MealFetcher.fetchMeals() async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/MealFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "874E5536-CF8A-4FCF-AC9D-FC9E32F74820 - 22f3c1e01d97bf48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipies.MealFetcher.fetchMeals() async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/MealFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "874E5536-CF8A-4FCF-AC9D-FC9E32F74820 - 8171049d1430d94f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Recipies.MealFetcher.fetchMeals() async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/MealFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C805011-ACA1-4D44-85AF-B7B1B09997AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/Model/Recipe.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C805011-ACA1-4D44-85AF-B7B1B09997AE - c4ffd2a562ad2cb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.Recipe.init(from: Swift.Decoder) throws -&gt; Recipies.Recipe"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "3C805011-ACA1-4D44-85AF-B7B1B09997AE - c4ffd2a562ad2d14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.Recipe.init(from: Swift.Decoder) throws -&gt; Recipies.Recipe"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  uuid = "3C805011-ACA1-4D44-85AF-B7B1B09997AE - c4ffd2a562ad2c98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.Recipe.init(from: Swift.Decoder) throws -&gt; Recipies.Recipe"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "389">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CCA39A2-818B-48F2-9407-3FB634662582"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/API/RecipeFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchRecipe(recipeID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CCA39A2-818B-48F2-9407-3FB634662582 - 172e5131f0f9e6c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipies.RecipeFetcher.fetchRecipe(recipeID: Swift.String) async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/RecipeFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "1CCA39A2-818B-48F2-9407-3FB634662582 - db8b6c190c8c1d71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipies.RecipeFetcher.fetchRecipe(recipeID: Swift.String) async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/RecipeFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "1CCA39A2-818B-48F2-9407-3FB634662582 - 42e21e3b1562aacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipies.RecipeFetcher.fetchRecipe(recipeID: Swift.String) async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/RecipeFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "1CCA39A2-818B-48F2-9407-3FB634662582 - 983c3eb988160ccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Recipies.RecipeFetcher.fetchRecipe(recipeID: Swift.String) async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/RecipeFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "1CCA39A2-818B-48F2-9407-3FB634662582 - 172e5131f0f9e6c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipies.RecipeFetcher.fetchRecipe(recipeID: Swift.String) async throws -&gt; ()"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/API/RecipeFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD6BFAAF-59EA-46B0-A74D-2F1A87DD13F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CD6BFAAF-59EA-46B0-A74D-2F1A87DD13F8 - d238018100a4dec4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.DetailView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "CD6BFAAF-59EA-46B0-A74D-2F1A87DD13F8 - fa5012fe16516ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.DetailView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "CD6BFAAF-59EA-46B0-A74D-2F1A87DD13F8 - 70d5a99d9a4f1ac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.DetailView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CD6BFAAF-59EA-46B0-A74D-2F1A87DD13F8 - a1dffd6fd962c4c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in closure #2 () -&gt; () in Recipies.DetailView.body.getter : some"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "DetailView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - daf7bf208c225386"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Recipies.DetailView.recipeFetcher : Recipies.RecipeFetcher"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - 6d155fb3d258f012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.DetailView.recipeFetcher.getter : Recipies.RecipeFetcher"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - 5700fcdce108b942"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.DetailView.recipeFetcher.setter : Recipies.RecipeFetcher"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - 5a7fc92654cd90bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.DetailView.recipeFetcher.modify : Recipies.RecipeFetcher"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - b9374df4c9f2c9d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.DetailView.recipeFetcher.modify : Recipies.RecipeFetcher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - c39bf24dbb0f8a4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.DetailView.$recipeFetcher.getter : SwiftUI.ObservedObject&lt;Recipies.RecipeFetcher&gt;.Wrapper"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0F7D562B-652E-426E-AE08-69B53CA9623C - 95a4130bc58494d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Recipies.DetailView.init(recipeID: Swift.String, recipeFetcher: Recipies.RecipeFetcher) -&gt; Recipies.DetailView"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD63FCD7-2538-4F5E-B2B3-AFB36CEC8466"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipies/Model/Recipe.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD63FCD7-2538-4F5E-B2B3-AFB36CEC8466 - c4ffd2a562ad3343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.Recipe.init(from: Swift.Decoder) throws -&gt; Recipies.Recipe"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "2336">
+               </Location>
+               <Location
+                  uuid = "AD63FCD7-2538-4F5E-B2B3-AFB36CEC8466 - c4ffd2a562ad3362"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipies.Recipe.init(from: Swift.Decoder) throws -&gt; Recipies.Recipe"
+                  moduleName = "Recipies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mike/Sources/Recipies/Recipies/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "2387">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
