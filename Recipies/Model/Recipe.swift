@@ -33,6 +33,7 @@ struct Recipe: Decodable, Identifiable {
         case youtube = "strYoutube"
         case source = "strSource"
     }
+    // did I mention the JSON is really ugly?
     enum AdditionalKeys: String, CodingKey {
         case strIngredient1
         case strIngredient2
@@ -86,7 +87,9 @@ struct Recipe: Decodable, Identifiable {
         instructions = try values.decode(String.self, forKey: .instructions)
         youtube = try values.decodeIfPresent(String.self, forKey: .youtube)
         source = try values.decodeIfPresent(String.self, forKey: .source)
-        // need to convert the ingredient/measure pairs into an array of ingredient structs
+        // We need to convert the ingredient/measure pairs into an array of ingredient structs
+        // The JSON is very ugly, with 20 each ingredient & measure elements. I wanted to make
+        // it into something nicer. I'm sure there must be a less ugly way to do this.
         let additionalValues = try decoder.container(keyedBy: AdditionalKeys.self)
         var decodedIngredients = [Ingredient]()
         for i in 1...20 {
