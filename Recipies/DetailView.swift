@@ -15,6 +15,7 @@ struct DetailView: View {
         ScrollView {
             if let recipe = recipeFetcher.recipe {
                 Text(recipe.name).bold()
+                Text("\(recipe.category) - \(recipe.area)")
                 VStack(alignment: .leading) {
                     ForEach(recipe.ingredients) { ingredient in
                         Text("\(ingredient.measure) \(ingredient.name)")
@@ -25,7 +26,7 @@ struct DetailView: View {
                 .padding()
                 AsyncImage(url: URL(string: recipe.thumbnail), scale: 1.0, content: { image in
                     image.resizable().aspectRatio(contentMode: .fit).frame(height: 200)
-                }) { Image(systemName: "photo") }
+                }) { ProgressView() }
 
 
             }
